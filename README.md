@@ -1,2 +1,3 @@
-# computer_science_book_reviews
-Reviews on computer science books
+# Computer Science Book Reviews
+
+Reviews on computer science books.
