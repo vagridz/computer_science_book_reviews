@@ -2,6 +2,14 @@
 
 List of books to be read:
 
+## Bash
+
+- Black Hat Bash: Creative Scripting for Hackers and Pentesters
+
+## Bonus
+
+Attacking Network Protocols: A Hacker's Guide to Capture, Analysis, and Exploitation
+
 ## Bug Bounty
 
 - Bug Bounty Bootcamp: The Guide to Finding and Reporting Web Vulnerabilities
@@ -12,7 +20,7 @@ List of books to be read:
 
 ## Design Patterns
 
-- Mastering Pytho Design Patterns: Craft essential Python patterns by following core design principles
+- Mastering Python Design Patterns: Craft essential Python patterns by following core design principles
 
 ## Full Stack
 
@@ -70,6 +78,10 @@ Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to
 
 - Writing a C compiler: Build a Real Programming Language From Scratch
 
+## Prometheus
+
+- Mastering Prometheus: Gain expert tips to monitoring your infrastructure, applications, and services
+
 ## Rust
 
 - Learn Rust In a Month of Lunches
@@ -81,3 +93,7 @@ Machine Learning with Python Cookbook: Practical Solutions from Preprocessing to
 ## System Administration
 
 - Linux Administration Cookbook: Insightful recipes to work with system administration tasks on Linux
+
+## System Design
+
+- System Design Interview
